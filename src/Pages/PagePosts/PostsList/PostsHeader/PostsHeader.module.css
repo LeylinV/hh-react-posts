@@ -1,0 +1,14 @@
+.posts__header{
+    --bs-table-bg: #474955;
+    border-color: #474955;
+}
+.posts__header th{
+    padding: 16px 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    white-space: pre;
+    cursor: pointer;
+}

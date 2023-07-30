@@ -1,0 +1,14 @@
+.post{
+    --bs-table-border-color: #E3E6EC;
+}
+
+
+.post td{
+    font-family: Roboto;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 13px 0.5rem;
+}

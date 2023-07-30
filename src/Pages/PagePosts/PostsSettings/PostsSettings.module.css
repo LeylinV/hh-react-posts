@@ -1,0 +1,16 @@
+.postsSettings_search{
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 14px;
+    padding: 14px 28px;
+    background-color: #5A5C66;
+    color: #B2B7BF;
+    border: none;
+}
+.postsSettings_search :active, :hover, :focus {
+    outline: 0;
+    outline-offset: 0;
+}
+::-webkit-input-placeholder {
+    color: #B2B7BF;
+}

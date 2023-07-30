@@ -1,0 +1,15 @@
+.postsNavigation__button{
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.postsNavigation__page{
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    font-style: italic;
+}
+.currentPage{
+    color: #7EBC3C
+}
